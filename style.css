@@ -380,6 +380,33 @@ article .icon {
   border-color: rgb(163, 163, 163);
 }
 
+/* CERTIFICATES SECTION */
+
+#certifications {
+  position: relative;
+}
+
+.color-container {
+  border-color: rgb(163, 163, 163);
+  background: rgb(250, 250, 250);
+}
+
+.certificate-img {
+  border-radius: 2rem;
+  width: 30%;
+  height: 30%;
+}
+
+.certificate-title {
+  margin: 1rem;
+  color: black;
+}
+
+.certificate-btn {
+  color: black;
+  border-color: rgb(163, 163, 163);
+}
+
 /* CONTACT */
 
 #contact {
